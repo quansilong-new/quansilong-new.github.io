@@ -1,4 +1,10 @@
-<!-- I am now working at [HeyGen](https://www.heygen.com) <img src='./images/heygen_logo.svg' style="width: 4em;">, leading foundation video model research team at the Singapore office. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns!
+
+2019年在中国科学技术大学近代力学系获固体力学工学博士学位，同年入职东华理工大学电子与电气工程学院从事电子科学与技术专业相关教学科研工作，2024年认定为江西省高层次人才E类人才。
+电子科学与技术专业[硕士研究导师（学术型）](https://jdxy.ecut.edu.cn/e7/a5/c8589a124837/page.htm)，现主要研究方向为低维材料及其界面的应变调控、材料微结构计算及功能设计、材料辐照损伤及防护、晶体形核生长及相变过程，电池离子迁移及老化机理研究等。
+已在国内外重要学术期刊发表期刊论文20篇（其中SCI收录15篇，中科院二区及以上5篇，Top期刊2篇），<a href='https://scholar.google.com/citations?user=lWWgucAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fquansilong-new%2Fquansilong-new.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>引用120余次；授权软件著作权20余项。
+
+<!--
+I am now working at [HeyGen](https://www.heygen.com) <img src='./images/heygen_logo.svg' style="width: 4em;">, leading foundation video model research team at the Singapore office. If you are seeking any form of **academic cooperation**, please feel free to email me at [rayeren613@gmail.com](mailto:rayeren613@gmail.com). We are hiring interns!
 
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and from the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院) with a master's degree, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) closely. 
 
@@ -8,8 +14,4 @@ My research interest includes speech synthesis, neural machine translation and a
 
 To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
 -->
-
-2019年在中国科学技术大学近代力学系获固体力学工学博士学位，同年入职东华理工大学电子与电气工程学院从事电子科学与技术专业相关教学科研工作，2024年认定为江西省高层次人才E类人才。
-电子科学与技术专业[硕士研究导师（学术型）](https://jdxy.ecut.edu.cn/e7/a5/c8589a124837/page.htm)，现主要研究方向为低维材料及其界面的应变调控、材料微结构计算及功能设计、材料辐照损伤及防护、晶体形核生长及相变过程，电池离子迁移及老化机理研究等。
-已在国内外重要学术期刊发表期刊论文20篇（其中SCI收录15篇，中科院二区及以上5篇，Top期刊2篇），<a href='https://scholar.google.com/citations?user=lWWgucAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fquansilong-new%2Fquansilong-new.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>引用120余次；授权软件著作权20余项。
 
