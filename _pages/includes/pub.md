@@ -2,8 +2,7 @@
 # 📝 Publications 
 <!-- ## Materials Computation and Simulation -->
 - ``PCCP 2018`` **Quan S**, He L, Ni Y. [Tunable mosaic structures in van der Waals layered materials](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp04360d/unauth)[J]. Physical Chemistry Chemical Physics, 2018, 20(39): 25428-25436.
-- ``PCCP 2022`` **Quan S**, Zhang Y, Chen W. [Strain effects in the electron orbital coupling and electric structure of graphene](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp02428d/unauth)[J]. Physical Chemistry Chemical Physics, 2022, 24(38): 23929-23935. 
-<span class='show_paper_citations' data='lWWgucAAAAAJ:_FxGoFyzp5QC'></span>
+- ``PCCP 2022`` **Quan S**, Zhang Y, Chen W. [Strain effects in the electron orbital coupling and electric structure of graphene](https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp02428d/unauth)[J]. Physical Chemistry Chemical Physics, 2022, 24(38): 23929-23935. <strong><span class='show_paper_citations' data='lWWgucAAAAAJ:_FxGoFyzp5QC'></span></strong>
 - ``RP 2023`` **Quan S**, Zhang Y, Lin P. [Fatigue damage quantitative evaluation of carbon fiber composites at different stress ratios based on nonlinear ultrasonic](https://www.sciencedirect.com/science/article/pii/S2211379723004886)[J]. Results in Physics, 2023, 51: 106695.
 <!-- - ``ME 2023`` **Quan S**, Zhang Y, Li Y, et al. Near surface residual stress detection of metallic materials using the high order ultrasonic nonlinear coefficient[J]. Materials Express, 2023, 13(4): 688-694. -->
 - ``Langmuir 2024`` **Quan S**, Zhang Y, Liu H, et al. [Strain effects in the work function and charge transfer of the Au (111) surface](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.4c01408)[J]. Langmuir, 2024, 40(32): 16867-16874.
@@ -13,19 +12,6 @@
 
 <!--## Nonlinear Nondestructive Testing -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='lWWgucAAAAAJ:_FxGoFyzp5QC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
-</div>
-</div>
 
 <!--
 ## 🎙 Speech Synthesis
