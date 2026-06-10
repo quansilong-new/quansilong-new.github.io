@@ -3,9 +3,12 @@
 - *2019.06 - 2022.04*, 博士研究生, 工程科学学院，中国科学技术大学，合肥.
 - *2015.09 - 2019.06*, 硕士研究生, 物理科学与工程技术学院, 广西大学, 南宁.
 - *2008.09 - 2012.06*, 学士，物理与电子科学学院，长沙理工大学, 长沙.
-<!-- - *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
+
+<!--
+- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou. -->
+- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou. 
+-->
 
 # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
