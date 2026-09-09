@@ -1,5 +1,6 @@
 
 # 📝 Publications 
+**Selected Research Papers**
 <!-- ## Materials Computation and Simulation -->
 - ``NTE 2026`` **Quan S**, Zhang Y, Zeng H. [Nonlinear ultrasonic detection of axial stress of fan bolts based on pulse inversion technique](https://www.tandfonline.com/doi/abs/10.1080/10589759.2025.2471998)[J]. Nondestructive Testing and Evaluation, 2026, 41(1): 503-518.<strong><span class='show_paper_citations' data='lWWgucAAAAAJ:qxL8FJ1GzNcC'></span></strong>
 - ``JMEP 2025`` **Quan S**, Zhang Y. [Research on Fatigue Detection and Remaining Life Prediction of High-Strength Steel Based on Nonlinear Guided Waves](https://link.springer.com/article/10.1007/s11665-025-11390-4)[J]. Journal of Materials Engineering and Performance, 2025, 34(23): 28036-28042.<strong><span class='show_paper_citations' data='lWWgucAAAAAJ:4DMP91E08xMC'></span></strong>
