@@ -1,6 +1,6 @@
 
 2015年进入中国科学技术大学[MEFC实验室](http://staff.ustc.edu.cn/~yni/index.html)攻读工学博士学位，2019年在中国科学技术大学近代力学系获固体力学工学博士学位，同年入职东华理工大学电子与电气工程学院从事电子科学与技术专业相关教学科研工作，2024年认定为江西省高层次人才E类人才。<br>
-电子科学与技术专业[硕士研究导师（学术型）](https://jdxy.ecut.edu.cn/e7/a5/c8589a124837/page.htm)，现主要研究方向为**低维材料及其界面的应变效应、电子功能材料电子结构计算及调控、材料辐照损伤及防护、新型能源材料微纳米力学及设计**等。
+电子科学与技术专业[硕士研究导师（学术型）](https://jdxy.ecut.edu.cn/30/4b/c8589a143435/page.htm)，现主要研究方向为**低维材料及其界面的应变效应、电子功能材料电子结构计算及调控、材料辐照损伤及防护、新型能源材料微纳米力学及设计**等。
 指导学生竞赛获省级奖及以上6项；获批校级大学生科技创新（创新创业）项目2项（分别获二等奖和三等奖）；指导国家、省级级大学生创新创业训练计划项目各1项。
 已在国内外重要学术期刊发表期刊论文20余篇（其中SCI收录15篇，中科院二区及以上5篇，Top期刊2篇），引用<a href='https://scholar.google.com/citations?user=lWWgucAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fquansilong-new%2Fquansilong-new.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>次；授权软件著作权30余项。
 
