@@ -15,11 +15,8 @@ jobs:
         sudo apt-get install python3-setuptools
     - name: Run
       run: |
-        cd ./google_scholar_crawler
-        python3 -m pip install --upgrade pip 
-        pip3 install -r requirements.txt 
-        pip3 install bibtexparser==1.2.0
-        # pip3 install --no-cache-dir -r requirements.txt
+        cd ./google_scholar_crawler 
+        pip3 install --no-cache-dir -r requirements.txt
         python3 main.py
         cd ./results
         git init
